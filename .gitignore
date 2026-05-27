@@ -1,0 +1,6 @@
+*.swp
+*.log
+.DS_Store
+ollama_data/
+postgres_data/
+open-webui_data/
